@@ -7,3 +7,4 @@ Creating a new branch is quick
 Creating a new branch is quick AND simple.
 I am sleep two hours.
 I have a bike.
+shine
